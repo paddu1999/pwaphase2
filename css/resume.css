@@ -1,0 +1,38 @@
+body{
+  background: green;
+}
+img{
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin:1%;
+  padding: 1%;
+  width: 95%;
+}
+.left{
+  width:30%;
+  background: #77876E;
+  margin:1%;
+  padding: 1%;
+  border: 2px solid black;
+  text-align: center;
+}
+.right{
+  background: #ED7604;
+  width: 60%;
+  margin:1%;
+  padding: 1%;
+  border: 2px solid black;
+}
+.main{
+  background: blue;
+  display: flex;
+  justify-content: space-around;
+  margin:1%;
+  padding: 1%;
+}
+table{
+  text-align: center;
+  border: 2px solid red;
+  width:95%;
+}

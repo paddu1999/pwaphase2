@@ -1,0 +1,40 @@
+header{
+  background:  #0D0567;
+  color: white;
+  text-align: center;
+  margin: 1%;
+  padding: 2%;
+  font-size: 25px;
+  font-weight: 600;
+  border: 3px solid black;
+  box-shadow: 2px 5px red;
+}
+a img{
+  display: block;
+  width:15%;
+  height:20%;
+  margin: 0 4% 0 auto;
+  border-radius: 5%;
+
+}
+.parent{
+  display: flex;
+  justify-content: space-around;
+}
+
+.child img{
+  width: 200px;
+  height: 250px;
+  padding: 1%;
+  margin: 1%;
+  background: green;
+  border-radius: 5%;
+}
+.child{
+  width: 30%;
+  text-align: center;
+  border: 2px solid black;
+  box-shadow: 2px 5px red;
+  background: green;
+  border-radius: 5%;
+}

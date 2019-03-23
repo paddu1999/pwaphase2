@@ -1,0 +1,42 @@
+body{
+  background:#7CEBCE ;
+}
+.main1{
+  display: flex;
+  margin: 2%;
+  border: 2px solid black;
+  padding: 2%;
+  width: 95%;
+}
+ .main1 section{
+   width: 95%;
+   border: 2px solid black;
+   margin: 1%;
+   padding: 1%;
+ }
+ section{
+   background: #0fAed8;
+   text-align: center;
+
+ }
+input,select{
+   width: 95%;
+   margin: 1%;
+   padding: 1%;
+   display: block;
+   border: 1px solid #fff;
+}
+#career{
+  width: 95%;
+  margin:1%;
+  padding: 2%;
+  display: block;
+}
+button{
+  width: 95%;
+  background: #CE0B0B;
+  color:#ddd;
+  margin:1%
+  padding:1%
+  font-size:bold;
+}
